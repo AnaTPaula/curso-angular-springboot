@@ -1,0 +1,17 @@
+https://github.com/AnaTPaula/curso-angular-springboot.git
+
+
+git init  				(Utilizado apenas na criação do repositório)
+git add README.md			(Utilizado apenas uma vez para adicionar os arquivos no repositório)
+git commit -m "first commit"  		(Utilizado nas alterações do código)
+git branch -M main
+git remote add origin https://github.com/AnaTPaula/curso-angular-springboot.git  (Configuração do repositório remoto)
+git push -u origin main
+
+1. Init
+2. Adicionar arquivos na pilha de commit
+3. Fazer commit 
+4. Fazer pull (Atualiza projeto com os arquivos que ja foram feitos)
+5. Fazer o push
+
+D:\4. Cursos\2. Angular e SpringBoot
